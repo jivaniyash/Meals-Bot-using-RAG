@@ -1,5 +1,8 @@
 # Meals Bot using RAG
 
+## Demo
+![demo-gif](https://github.com/jivaniyash/Meals-Bot-using-RAG/blob/master/demo/demo_video.gif)
+
 ## Usage
 This repository provides a chat bot assistant using the gemma-2b model powered by Streamlit. Follow the instructions below to set up and run the application. 
 
