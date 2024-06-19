@@ -1,0 +1,4 @@
+.venv
+docs.db
+gemma-2b-it
+main.ipynb

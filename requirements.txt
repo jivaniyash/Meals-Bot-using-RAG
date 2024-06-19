@@ -1,0 +1,7 @@
+chromadb
+sentence_transformers # embeddings to store in Vector db
+streamlit
+
+## for pdf loading
+# pymupdf 
+# PyPDF2
